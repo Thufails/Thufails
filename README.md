@@ -20,3 +20,9 @@
 <a href="https://linkedin.com/in/rafithufail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafithufail" height="30" width="40" /></a>
 <a href="https://instagram.com/tufeil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tufeil_" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thufails&show_icons=true&locale=en&layout=compact" alt="thufails" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thufails&show_icons=true&locale=en" alt="thufails" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thufails&" alt="thufails" /></p>
