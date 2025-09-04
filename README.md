@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Programming, Tech, and Data**
 
-- 📫 How to reach me **abahc4mp3x@gmail.com**
+- 📫 How to reach me **tupelrafi@gmail.com**
 
 - ⚡ Fun fact **I'm serious but funny**
 
