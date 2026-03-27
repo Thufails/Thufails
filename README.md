@@ -12,8 +12,6 @@
 
 - ⚡ Fun fact **I'm serious but funny**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thufails&show_icons=true&locale=en&layout=compact" alt="thufails" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thufails&show_icons=true&locale=en" alt="thufails" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thufails&" alt="thufails" /></p>
