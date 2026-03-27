@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Programming, Tech, and Data**
 
-- 📫 How to reach me **tupelrafi@gmail.com**
-
 - ⚡ Fun fact **I'm serious but funny**
 
 <h3 align="left">You Can Connect with me:</h3>
