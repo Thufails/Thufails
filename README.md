@@ -104,13 +104,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thufails&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
-
----
-
-<p align="center">
-  <i>💡 Keep learning, keep building, and keep improving.</i>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
