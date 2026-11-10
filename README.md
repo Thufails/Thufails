@@ -1,123 +1,115 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Thufails</h1>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · thufails</sub></p>
+<h1>tfl</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Learner</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<h3 align="center">Fullstack | Laravel • PHP • Js</h3>
+<p><a href="https://github.com/thufails">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/79921730?u=a5d0194f5721426e9bb61b1051b87781ba55c239&amp;v=4" width="180" alt="tfl GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+%7C+PHP+%7C+MySQL;Building+Web+Applications;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
+<h2>What teams can evaluate quickly</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" alt="GitHub Profile" />
-</p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · PHP · Blade · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>39 repositories · 2 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>189 contributions · 36 active days</p></td>
+</tr>
+</table>
 
----
+<p><sub>Learner</sub></p>
 
-## 👨‍💻 About Me
+<h2>Proof at a glance</h2>
 
-- 🌱 Currently learning and building applications with **Laravel, PHP, and JavaScript**
-- 💻 Interested in **Fullstack, REST APIs, and Database Management**
-- 💬 Ask me about **Programming, Web Development, Technology, AI, and Data**
-- 📫 Reach me at **abahc4mp3x@gmail.com**
-- ⚡ Fun fact: **I'm serious but funny!**
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/kacamata8kaca" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/rafithufail" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/tufeil_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:abahc4mp3x@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP" />
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=laravel" width="45" alt="Laravel" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgresql" width="45" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="45" alt="Bootstrap" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>39</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>189</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thufails&theme=tokyonight"
-    width="100%"
-    alt="GitHub Profile Details"
-  />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=thufails&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79921730%3Fu%3Da5d0194f5721426e9bb61b1051b87781ba55c239%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=thufails&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79921730%3Fu%3Da5d0194f5721426e9bb61b1051b87781ba55c239%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="tfl GitHub proof metrics" />
+</picture>
 </p>
 
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=thufails&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79921730%3Fu%3Da5d0194f5721426e9bb61b1051b87781ba55c239%26v%3D4&repos=thufails%2FPPL_A6_UAS%2Cthufails%2Fapi-ruangedukasi%2Cthufails%2Fsimarsipcoba%2Cthufails%2Fmanajemen-alkes&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=thufails&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79921730%3Fu%3Da5d0194f5721426e9bb61b1051b87781ba55c239%26v%3D4&repos=thufails%2FPPL_A6_UAS%2Cthufails%2Fapi-ruangedukasi%2Cthufails%2Fsimarsipcoba%2Cthufails%2Fmanajemen-alkes&v=recruiter-projects-1&mode=dark" width="100%" alt="tfl selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Thufails/PPL_A6_UAS">PPL_A6_UAS</a></h3>
+<p>A selected public project.</p>
+<p><sub>PHP · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/Thufails/PPL_A6_UAS">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Thufails/api-ruangedukasi">api-ruangedukasi</a></h3><p>API for Ruang Edukasi</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Thufails/simarsipcoba">simarsipcoba</a></h3><p>A selected public project.</p><p><sub>PHP · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Thufails/manajemen-alkes">manajemen-alkes</a></h3><p>A selected public project.</p><p><sub>PHP · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thufails&theme=tokyonight"
-    width="32%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thufails&theme=tokyonight"
-    width="32%"
-    alt="Top Languages"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thufails&theme=tokyonight&timeZone=Asia%2FJakarta"
-    width="32%"
-    alt="Productive Time"
-  />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=thufails&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79921730%3Fu%3Da5d0194f5721426e9bb61b1051b87781ba55c239%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=thufails&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79921730%3Fu%3Da5d0194f5721426e9bb61b1051b87781ba55c239%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="tfl technology stack" />
+</picture>
 </p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>69% of public code</sub></td>
+<td width="20%" align="center"><strong>Blade</strong><br /><sub>16% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>5% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=thufails&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79921730%3Fu%3Da5d0194f5721426e9bb61b1051b87781ba55c239%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=thufails&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79921730%3Fu%3Da5d0194f5721426e9bb61b1051b87781ba55c239%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="tfl contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/thufails">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>tfl · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
