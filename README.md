@@ -1,27 +1,43 @@
 
-<h1 align="center">Hi 👋, I'm Thufails</h1>
-
-<h3 align="center">Fullstack | Laravel • PHP • JavaScript</h3>
+<!-- ==================== PROFILE HERO ==================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+%7C+PHP+%7C+MySQL;Building+Web+Applications;Always+Learning+Something+New" alt="Typing SVG" />
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=thufails&theme=aurora&style=aura"
+    width="100%"
+    alt="Thufails GitHub Profile Hero"
+  />
+</p>
+
+<h3 align="center">
+  Fullstack Developer | Laravel • PHP • JavaScript
+</h3>
+
+<p align="center">
+  Building web applications, exploring AI integration,
+  and continuously learning new technologies.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" alt="GitHub Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Laravel+%7C+PHP+%7C+MySQL;Exploring+AI+Integration;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
 
+<!-- ==================== ABOUT ME ==================== -->
+
 ## 👨‍💻 About Me
 
 - 🌱 Currently learning and building applications with **Laravel, PHP, and JavaScript**
-- 💻 Interested in **Fullstack, REST APIs, and Database Management**
+- 💻 Interested in **Fullstack Development, REST APIs, and Database Management**
+- 🤖 Exploring **Artificial Intelligence, AI Integration, and RAG**
 - 💬 Ask me about **Programming, Web Development, Technology, AI, and Data**
 - 📫 Reach me at **abahc4mp3x@gmail.com**
 - ⚡ Fun fact: **I'm serious but funny!**
 
 ---
+
+<!-- ==================== CONNECT WITH ME ==================== -->
 
 ## 🤝 Connect With Me
 
@@ -41,6 +57,8 @@
 </p>
 
 ---
+
+<!-- ==================== LANGUAGES & TOOLS ==================== -->
 
 ## 🛠️ Languages and Tools
 
@@ -94,6 +112,8 @@
 
 ---
 
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -122,3 +142,26 @@
   />
 </p>
 
+---
+
+<!-- ==================== GITHUB STREAK ==================== -->
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=thufails&theme=github-dark-blue&hide_border=true&border_radius=10&mode=daily&properties=background"
+    width="100%"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
