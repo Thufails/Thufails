@@ -1,25 +1,28 @@
 
-<!-- ==================== PROFILE HERO ==================== -->
+<!-- ====================================================== -->
+<!--                  THUFAILS PROFILE                      -->
+<!--                   MIDNIGHT OCEAN                       -->
+<!-- ====================================================== -->
+
+<!-- ==================== PROFILE HEADER ==================== -->
 
 <p align="center">
   <img
-    src="https://www.gitskins.com/api/section/hero?username=thufails&theme=aurora&style=aura"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=THUFAILS&fontSize=65&fontColor=EAF6FF&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Laravel%20%7C%20PHP%20%7C%20JavaScript&descSize=17&descAlignY=58&descColor=9DECF0&animation=fadeIn"
     width="100%"
-    alt="Thufails GitHub Profile Hero"
+    alt="Thufails Profile Header"
   />
 </p>
 
-<h3 align="center">
-  Fullstack Developer | Laravel • PHP • JavaScript
-</h3>
-
 <p align="center">
-  Building web applications, exploring AI integration,
-  and continuously learning new technologies.
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38D9C5&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Laravel+%7C+PHP+%7C+MySQL;Building+Web+Applications;Exploring+AI+Integration;Always+Learning+Something+New"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Laravel+%7C+PHP+%7C+MySQL;Exploring+AI+Integration;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub Profile" />
 </p>
 
 ---
@@ -150,7 +153,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=thufails&theme=github-dark-blue&hide_border=true&border_radius=10&mode=daily&properties=background"
+    src="https://streak-stats.demolab.com/?user=thufails&theme=github-dark-blue&hide_border=true&border_radius=10"
     width="100%"
     alt="GitHub Streak Stats"
   />
@@ -158,10 +161,20 @@
 
 ---
 
+<!-- ==================== FOOTER ==================== -->
+
 <p align="center">
   <i>"Code. Learn. Build. Repeat."</i>
 </p>
 
 <p align="center">
   Thanks for visiting my profile! 😊
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"
+    width="100%"
+    alt="Profile Footer"
+  />
 </p>
